@@ -1,0 +1,6 @@
+{
+  "name": "Markdown Generator App",
+  "description": "Modern Bento-grid workspace to compose, format, preview, and export high-fidelity Markdown files with live preview, starter templates, and analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
